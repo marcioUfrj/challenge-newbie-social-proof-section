@@ -31,10 +31,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://marcioufrj.github.io/challenge-newbie-social-proof-section/)
+- Solution URL: [Frontedmentor Challenge Page](https://www.frontendmentor.io/solutions/social-proof-section-with-html-css-ica7JOPGH)
+- Live Site URL: [Git Pages](https://marcioufrj.github.io/challenge-newbie-social-proof-section/)
 
 ## My process
+
+1. I built the desktop version first.
+2. I finished the fist half section with the stars reviews then I finished the bottom half with people's reviews.
+3. I adjusted the layout to match the mobile version.
 
 ### Built with
 
@@ -45,15 +49,19 @@ Users should be able to:
 
 ### What I learned
 
+- CSS Position: how to position images according to their parent size.
+- CSS Grid: position elements across multiple rows and columns.
+- Better understanding of "container"'s size and "children"'s size. I mean, how to size objects to have some dynamic response but it's kind of confusing to me.
+
 ### Continued development
 
-
+- Keep improving on sizing objects in order to have a nice responsive site.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS Tricks - Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Grid to organize the (review icon + Revier Name + Type of buyer).
+- [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Flexbox to organize the multiple layouts on mobile vs desktop.
 
 ## Author
 
 - Frontend Mentor - [@marcioUfrj](https://www.frontendmentor.io/profile/marcioUfrj)
-- Twitter - [@tsukimi_23](https://www.twitter.com/tsukimi_23)
